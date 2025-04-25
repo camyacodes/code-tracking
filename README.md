@@ -10,3 +10,4 @@ For more information about AiTrack, visit [AiTrack](https://marketplace.visualst
 
 | Repo | Commit Message | Timestamp | Date | Path |
 |-----------|-----------------|----------------|------|------|
+| [LearningBehindTheScreens](https://github.com/camyacodes/code-tracking/blob/main/LearningBehindTheScreens/README.md) | feat(navbarComponent): add navigation menu | 2min | 4/24/2025 | [path](https://github.com/camyacodes/code-tracking/blob/main/LearningBehindTheScreens/4/24/2025/22%3A32%3A03-2.md) |
